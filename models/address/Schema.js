@@ -31,4 +31,6 @@ let addressSchema = new Schema({
 
 });
 
+module.exports = addressSchema;
+
 
